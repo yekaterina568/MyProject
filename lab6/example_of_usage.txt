@@ -1,0 +1,5 @@
+Apple
+Banana
+Cherry
+42
+3.14
